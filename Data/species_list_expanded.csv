@@ -1,0 +1,405 @@
+"","paper.id","sample.unit","family","genus","species","functional.group","significant","full.name","valid.name","fb.name","id.sub","SpecCode","Genus","Subfamily","Family","Order","Class","SuperClass"
+"1",2,"Target species as a group","Acanthuridae",NA,NA,"Resource fish","Yes",NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA
+"2",34,"Target species as a group","Acanthuridae",NA,NA,"Target families - Acanthuridae and Carangidae","Yes",NA,NA,NA,21,NA,NA,NA,NA,NA,NA,NA
+"3",34,"Target species as a group","Carangidae",NA,NA,"Target families - Acanthuridae and Carangidae","Yes",NA,NA,NA,21,NA,NA,NA,NA,NA,NA,NA
+"4",104,"Individual species","Nephropidae","Homarus","gammarus",NA,"Yes","Homarus gammarus","Homarus gammarus","Homarus gammarus",39,NA,NA,NA,NA,NA,NA,NA
+"5",140,"Genus group","Cardiidae","Tridacna","spp.",NA,NA,"Tridacna spp.",NA,NA,57,NA,NA,NA,NA,NA,NA,NA
+"6",140,"Individual species","Tegulidae","Tectus","dentatus",NA,"Yes","Tectus dentatus","Tectus dentatus","Tectus dentatus",99,NA,NA,NA,NA,NA,NA,NA
+"7",176,"Individual species","Palinuridae","Palinurus","elephas",NA,"No","Palinurus elephas","Palinurus elephas","Palinurus elephas",140,NA,NA,NA,NA,NA,NA,NA
+"8",209,"Individual species","Palinuridae","Palinurus","elephas",NA,NA,"Palinurus elephas",NA,"Palinurus elephas",148,NA,NA,NA,NA,NA,NA,NA
+"9",304,"Individual species","Acanthuridae","Naso","vlamingii",NA,"Yes","Naso vlamingii","Naso vlamingii","Naso vlamingii",154,6024,"Naso","Nasinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"10",310,"Individual species","Portunidae","Scylla","serrata",NA,"Yes","Scylla serrata","Scylla serrata","Scylla serrata",166,NA,NA,NA,NA,NA,NA,NA
+"11",346,"Individual species","Palinuridae","Palinurus","elephas",NA,"Yes","Palinurus elephas",NA,"Palinurus elephas",172,NA,NA,NA,NA,NA,NA,NA
+"12",362,"Target species as a group","Carangidae",NA,NA,"Fish that are caught my spearfishers","Yes",NA,NA,NA,177,NA,NA,NA,NA,NA,NA,NA
+"13",367,"Functional group","Serranidae",NA,NA,"Large predatory reef fish (Serranidae, Lutjanidae, Lethrinidae)","Yes",NA,NA,NA,179,NA,NA,NA,NA,NA,NA,NA
+"14",367,"Functional group","Lutjanidae",NA,NA,"Large predatory reef fish (Serranidae, Lutjanidae, Lethrinidae)","Yes",NA,NA,NA,179,NA,NA,NA,NA,NA,NA,NA
+"15",367,"Functional group","Lethrinidae",NA,NA,"Large predatory reef fish (Serranidae, Lutjanidae, Lethrinidae)","Yes",NA,NA,NA,179,NA,NA,NA,NA,NA,NA,NA
+"16",406,"Individual species","Mytilidae","Perna","perna",NA,"Yes","Perna perna","Perna perna","Perna perna",185,NA,NA,NA,NA,NA,NA,NA
+"17",406,"Individual species","Chthamalidae","Octomeris","angulosa",NA,"Yes","Octomeris angulosa",NA,NA,190,NA,NA,NA,NA,NA,NA,NA
+"18",490,"Family group","Scaridae",NA,NA,NA,"Yes",NA,NA,NA,223,NA,NA,NA,NA,NA,NA,NA
+"19",531,"Individual species","Palinuridae","Homarus","gammarus",NA,"Yes","Homarus gammarus",NA,"Homarus gammarus",229,NA,NA,NA,NA,NA,NA,NA
+"20",804,"Family group","Pomacanthidae",NA,NA,NA,"Yes",NA,NA,NA,254,NA,NA,NA,NA,NA,NA,NA
+"21",804,"Family group","Serranidae",NA,NA,NA,"Yes",NA,NA,NA,264,NA,NA,NA,NA,NA,NA,NA
+"22",804,"Family group","Lethrinidae",NA,NA,NA,"Yes",NA,NA,NA,269,NA,NA,NA,NA,NA,NA,NA
+"23",804,"Family group","Chaetodonidae",NA,NA,NA,"Yes",NA,NA,NA,282,NA,NA,NA,NA,NA,NA,NA
+"24",804,"Family group","Acanthuridae",NA,NA,NA,"Yes",NA,NA,NA,287,NA,NA,NA,NA,NA,NA,NA
+"25",804,"Family group","Siganidae",NA,NA,NA,"Yes",NA,NA,NA,292,NA,NA,NA,NA,NA,NA,NA
+"26",804,"Family group","Scaridae",NA,NA,NA,"Yes",NA,NA,NA,297,NA,NA,NA,NA,NA,NA,NA
+"27",842,"Individual species","Palinuridae","Panulirus","interruptus",NA,"Yes","Panulirus interruptus","Panulirus interruptus","Panulirus interruptus",325,NA,NA,NA,NA,NA,NA,NA
+"28",865,"Functional group","Acanthuridae",NA,NA,"Herbivorous fish (Acanthuridae, Scaridae)","Yes",NA,NA,NA,373,NA,NA,NA,NA,NA,NA,NA
+"29",865,"Functional group","Scaridae",NA,NA,"Herbivorous fish (Acanthuridae, Scaridae)","Yes",NA,NA,NA,373,NA,NA,NA,NA,NA,NA,NA
+"30",870,"Target species as a group","Scaridae",NA,NA,"Demersal commercial fishes","Yes",NA,NA,NA,393,NA,NA,NA,NA,NA,NA,NA
+"31",1064,"Individual species","Nephropidae","Homarus","gammarus",NA,"No","Homarus gammarus",NA,"Homarus gammarus",423,NA,NA,NA,NA,NA,NA,NA
+"32",1064,"Individual species","Cancridae","Cancer","pagurus",NA,"No","Cancer pagurus","Cancer pagurus","Cancer pagurus",428,NA,NA,NA,NA,NA,NA,NA
+"33",1113,"Individual species","Palinuridae","Panulirus","argus",NA,"Yes","Panulirus argus","Panulirus argus","Panulirus argus",438,NA,NA,NA,NA,NA,NA,NA
+"34",1116,"Individual species","Parechinidae","Paracentrotus","lividus","Paracentrotus lividus, Arbacia lixula","No","Paracentrotus lividus",NA,NA,442,NA,NA,NA,NA,NA,NA,NA
+"35",1116,"Individual species","Arbaciidae","Arbacia","lixula","Paracentrotus lividus, Arbacia lixula","No","Arbacia lixula",NA,NA,442,NA,NA,NA,NA,NA,NA,NA
+"36",1116,"Genus group","Sparidae","Diplodus","spp.",NA,"Yes","Diplodus spp.",NA,NA,462,NA,NA,NA,NA,NA,NA,NA
+"37",1134,"Family group","Lutjanidae",NA,NA,NA,"Yes",NA,NA,NA,482,NA,NA,NA,NA,NA,NA,NA
+"38",1134,"Family group","Mullidae",NA,NA,NA,"Yes",NA,NA,NA,485,NA,NA,NA,NA,NA,NA,NA
+"39",1134,"Family group","Serranidae",NA,NA,NA,"Yes",NA,NA,NA,489,NA,NA,NA,NA,NA,NA,NA
+"40",1134,"Family group","Labridae",NA,NA,NA,"No",NA,NA,NA,493,NA,NA,NA,NA,NA,NA,NA
+"41",1134,"Family group","Chaetodontidae",NA,NA,NA,"No",NA,NA,NA,497,NA,NA,NA,NA,NA,NA,NA
+"42",1134,"Family group","Acanthuridae",NA,NA,NA,"Yes",NA,NA,NA,501,NA,NA,NA,NA,NA,NA,NA
+"43",1134,"Family group","Teraodontidae",NA,NA,NA,"No",NA,NA,NA,505,NA,NA,NA,NA,NA,NA,NA
+"44",1134,"Family group","Holocentridae",NA,NA,NA,"Yes",NA,NA,NA,509,NA,NA,NA,NA,NA,NA,NA
+"45",1134,"Family group","Carangidae",NA,NA,NA,"Yes",NA,NA,NA,511,NA,NA,NA,NA,NA,NA,NA
+"46",1134,"Family group","Pomacentridae",NA,NA,NA,"No",NA,NA,NA,513,NA,NA,NA,NA,NA,NA,NA
+"47",1199,"Individual species","Lutjanidae","Pristipomoides","filamentosus",NA,"Yes","Pristipomoides filamentosus","Pristipomoides filamentosus","Pristipomoides filamentosus",566,201,"Pristipomoides","Etelinae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"48",1199,"Individual species","Lutjanidae","Etelis","coruscans",NA,"Yes","Etelis coruscans","Etelis coruscans","Etelis coruscans",571,1385,"Etelis","Etelinae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"49",1199,"Individual species","Lutjanidae","Etelis","carbunculus",NA,"Yes","Etelis carbunculus","Etelis carbunculus","Etelis carbunculus",576,87,"Etelis","Etelinae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"50",1199,"Target species as a group","Pomacentridae",NA,NA,"Deep 7","No",NA,NA,NA,641,NA,NA,NA,NA,NA,NA,NA
+"51",1280,"Individual species","Acanthuridae","Zebrasoma","flavescens",NA,"No","Zebrasoma flavescens","Zebrasoma flavescens","Zebrasoma flavescens",698,6018,"Zebrasoma","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"52",1311,"Family group","Acanthuridae",NA,NA,NA,"Yes",NA,NA,NA,732,NA,NA,NA,NA,NA,NA,NA
+"53",1311,"Family group","Scaridae",NA,NA,NA,"Yes",NA,NA,NA,737,NA,NA,NA,NA,NA,NA,NA
+"54",1313,"Individual species","Pectinidae","Pecten","maximus",NA,"Yes","Pecten maximus","Pecten maximus","Pecten maximus",742,NA,NA,NA,NA,NA,NA,NA
+"55",1318,"Target species as a group","Sparidae",NA,NA,NA,"Yes",NA,NA,NA,748,NA,NA,NA,NA,NA,NA,NA
+"56",1318,"Target species as a group","Mullidae",NA,NA,"Mullidae (target), Scorpaenidae and Labridae (non-target)","Yes",NA,NA,NA,753,NA,NA,NA,NA,NA,NA,NA
+"57",1318,"Target species as a group","Scorpaenidae",NA,NA,"Mullidae (target), Scorpaenidae and Labridae (non-target)","Yes",NA,NA,NA,753,NA,NA,NA,NA,NA,NA,NA
+"58",1318,"Target species as a group","Labridae",NA,NA,"Mullidae (target), Scorpaenidae and Labridae (non-target)","Yes",NA,NA,NA,753,NA,NA,NA,NA,NA,NA,NA
+"59",1318,"Target species as a group","Palinuridae",NA,NA,"Palinuridae (target), Uranoscopidae (non-target)","Yes",NA,NA,NA,765,NA,NA,NA,NA,NA,NA,NA
+"60",1318,"Target species as a group","Uranoscopidae",NA,NA,"Palinuridae (target), Uranoscopidae (non-target)","Yes",NA,NA,NA,765,NA,NA,NA,NA,NA,NA,NA
+"61",1318,"Target species as a group","Serranidae",NA,NA,"Serranidae and Sparidae (Target)","Yes",NA,NA,NA,785,NA,NA,NA,NA,NA,NA,NA
+"62",1318,"Target species as a group","Scyliorhinidae",NA,NA,"Scorpaenidae and Palinuridae (Target), Scyliorhinidae and Sparidae (non-target)","No",NA,NA,NA,789,NA,NA,NA,NA,NA,NA,NA
+"63",1318,"Target species as a group","Moronidae",NA,NA,"Sparidae (Target), Moronidae and Congridae (Non-target)","No",NA,NA,NA,793,NA,NA,NA,NA,NA,NA,NA
+"64",1318,"Target species as a group","Congridae",NA,NA,"Sparidae (Target), Moronidae and Congridae (Non-target)","No",NA,NA,NA,793,NA,NA,NA,NA,NA,NA,NA
+"65",1325,"Individual species","Haemulidae","Anisotremus","surinamensis",NA,"No","Anisotremus surinamensis","Anisotremus surinamensis","Anisotremus surinamensis",818,1123,"Anisotremus","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"66",1325,"Individual species","Haemulidae","Anisotremus","virginicus",NA,"No","Anisotremus virginicus","Anisotremus virginicus","Anisotremus virginicus",838,1124,"Anisotremus","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"67",1325,"Individual species","Carangidae","Carangoides","crysos",NA,"No","Carangoides crysos","Caranx crysos","Caranx crysos",858,1933,"Caranx","Caranginae","Carangidae","Carangiformes","Teleostei","Osteichthyes"
+"68",1325,"Individual species","Crangidae","Carangoides","crysos",NA,"No","Carangoides crysos",NA,"Caranx crysos",866,1933,"Caranx","Caranginae","Carangidae","Carangiformes","Teleostei","Osteichthyes"
+"69",1325,"Individual species","Serranidae","Mycteroperca","bonaci",NA,"No","Mycteroperca bonaci","Mycteroperca bonaci","Mycteroperca bonaci",878,1209,"Mycteroperca",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"70",1325,"Individual species","Lutjanidae","Ocyurus","chrysurus",NA,"Yes","Ocyurus chrysurus","Ocyurus chrysurus","Ocyurus chrysurus",898,188,"Ocyurus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"71",1325,"Individual species","Scaridae","Scarus","trispinosus",NA,"Yes","Scarus trispinosus","Scarus trispinosus","Scarus trispinosus",918,59493,"Scarus","Scarinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"72",1325,"Individual species","Scaridae","Sparisoma","amplum",NA,"Yes","Sparisoma amplum","Sparisoma amplum","Sparisoma amplum",938,59491,"Sparisoma","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"73",1325,"Individual species","Scaridae","Sparisoma","axillare",NA,"No","Sparisoma axillare","Sparisoma axillare","Sparisoma axillare",958,59492,"Sparisoma","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"74",1325,"Trophic levels","Congridae",NA,NA,"Small carnivores","No",NA,NA,NA,978,NA,NA,NA,NA,NA,NA,NA
+"75",1385,"Individual species","Merlucciidae","Merluccius","merluccius",NA,"Yes","Merluccius merluccius","Merluccius merluccius","Merluccius merluccius",1087,30,"Merluccius",NA,"Merlucciidae","Gadiformes","Teleostei","Osteichthyes"
+"76",676,"Functional group","Congridae",NA,NA,"Coral reef fish community","Yes",NA,NA,NA,1098,NA,NA,NA,NA,NA,NA,NA
+"77",1525,"Individual species","Siganidae","Siganus","sutor",NA,"Yes","Siganus sutor","Siganus sutor","Siganus sutor",1104,4615,"Siganus",NA,"Siganidae","Acanthuriformes","Teleostei","Osteichthyes"
+"78",1525,"Individual species","Lethrinidae","Lethrinus","mahsena",NA,"Yes","Lethrinus mahsena","Lethrinus mahsena","Lethrinus mahsena",1122,1843,"Lethrinus","Lethrininae","Lethrinidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"79",1525,"Individual species","Lethrinidae","Lethrinus","miniatus",NA,"No","Lethrinus miniatus","Lethrinus miniatus","Lethrinus miniatus",1142,1858,"Lethrinus","Lethrininae","Lethrinidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"80",1525,"Target species as a group","Congridae",NA,NA,"Any other fish caught in trap","No",NA,NA,NA,1161,NA,NA,NA,NA,NA,NA,NA
+"81",1531,"Target species as a group","Congridae",NA,NA,"Any other fish caught in trap","Yes",NA,NA,NA,1176,NA,NA,NA,NA,NA,NA,NA
+"82",1252,"Target species as a group","Congridae",NA,NA,"All species caught in trap","No",NA,NA,NA,1181,NA,NA,NA,NA,NA,NA,NA
+"83",1525,"Individual species","Labridae","Leptoscarus","vaigensis",NA,"Yes","Leptoscarus vaigensis","Leptoscarus vaigiensis","Leptoscarus vaigiensis",1210,4360,"Leptoscarus","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"84",1525,"Individual species","Haemulidae","Plectorhinchus","flavomaculatus",NA,"No","Plectorhinchus flavomaculatus","Plectorhinchus flavomaculatus","Plectorhinchus flavomaculatus",1226,7625,"Plectorhinchus","Plectorhinchinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"85",1535,"Individual species","Acanthuridae","Naso","vlamingii",NA,"Yes","Naso vlamingii",NA,"Naso vlamingii",1301,6024,"Naso","Nasinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"86",1550,"Individual species","Palinuridae","Jasus","edwardsii",NA,"No","Jasus edwardsii","Jasus edwardsii","Jasus edwardsii",1324,NA,NA,NA,NA,NA,NA,NA
+"87",1552,"Genus group","Sparidae","Diplodus","spp.",NA,"No","Diplodus spp.",NA,NA,1351,NA,NA,NA,NA,NA,NA,NA
+"88",1595,"Individual species","Sparidae","Pagellus","erythrinus",NA,"Yes","Pagellus erythrinus","Pagellus erythrinus","Pagellus erythrinus",1359,893,"Pagellus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"89",1605,"Individual species","Scorpaenidae","Scorpaena","porcus",NA,"No","Scorpaena porcus","Scorpaena porcus","Scorpaena porcus",1399,1758,"Scorpaena","Scorpaeninae","Scorpaenidae","Perciformes/Scorpaenoidei","Teleostei","Osteichthyes"
+"90",1605,"Individual species","Labridae","Labrus","merula",NA,"No","Labrus merula","Labrus merula","Labrus merula",1417,4582,"Labrus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"91",1605,"Target species as a group","Mullidae","Mullus","surmuletus",NA,"No","Mullus surmuletus","Mullus surmuletus","Mullus surmuletus",1435,1327,"Mullus",NA,"Mullidae","Mulliformes","Teleostei","Osteichthyes"
+"92",1605,"Individual species","Labridae","Symphodus","tinca",NA,"No","Symphodus tinca","Symphodus tinca","Symphodus tinca",1453,1708,"Symphodus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"93",1605,"Individual species","Sparidae","Diplodus","vulgaris",NA,"No","Diplodus vulgaris","Diplodus vulgaris","Diplodus vulgaris",1471,1754,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"94",1605,"Individual species","Sciaenidae","Sciaena","umbra",NA,"No","Sciaena umbra","Sciaena umbra","Sciaena umbra",1489,1707,"Sciaena",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"95",1605,"Individual species","Sparidae","Dentex","dentex",NA,"Yes","Dentex dentex","Dentex dentex","Dentex dentex",1498,439,"Dentex",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"96",1605,"Individual species","Congridae","Conger","conger",NA,"Yes","Conger conger","Conger conger","Conger conger",1507,301,"Conger","Congrinae","Congridae","Anguilliformes","Teleostei","Osteichthyes"
+"97",1605,"Individual species","Phycidae","Phycis","phycis",NA,"Yes","Phycis phycis","Phycis phycis","Phycis phycis",1516,1747,"Phycis",NA,"Phycidae","Gadiformes","Teleostei","Osteichthyes"
+"98",1605,"Individual species","Myliobatidae","Myliobatis","aquila",NA,"Yes","Myliobatis aquila","Myliobatis aquila","Myliobatis aquila",1525,4330,"Myliobatis",NA,"Myliobatidae","Myliobatiformes","Elasmobranchii","Chondrichthyes"
+"99",1605,"Genus group","Rajidae","Raja","spp.",NA,"No","Raja spp.",NA,NA,1534,NA,NA,NA,NA,NA,NA,NA
+"100",1605,"Individual species","Uranoscopidae","Uranoscopus","scaber",NA,"No","Uranoscopus scaber","Uranoscopus scaber","Uranoscopus scaber",1540,1779,"Uranoscopus",NA,"Uranoscopidae","Perciformes/Uranoscopoidei","Teleostei","Osteichthyes"
+"101",1605,"Individual species","Sparidae","Pagellus","erythrinus",NA,"No","Pagellus erythrinus",NA,"Pagellus erythrinus",1558,893,"Pagellus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"102",1605,"Individual species","Sparidae","Spicara","maena",NA,"No","Spicara maena","Spicara maena","Spicara maena",1576,4887,"Spicara",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"103",1605,"Individual species","Torpedinidae","Torpedo","marmorata",NA,"No","Torpedo marmorata","Torpedo marmorata","Torpedo marmorata",1585,5132,"Torpedo",NA,"Torpedinidae","Torpediniformes","Elasmobranchii","Chondrichthyes"
+"104",1605,"Individual species","Sparidae","Pagellus","acarne",NA,"No","Pagellus acarne","Pagellus acarne","Pagellus acarne",1594,889,"Pagellus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"105",1605,"Individual species","Palinuridae","Palinurus","elephas",NA,"Yes","Palinurus elephas",NA,"Palinurus elephas",1600,NA,NA,NA,NA,NA,NA,NA
+"106",1605,"Individual species","Sepiidae","Sepia","officinalis",NA,"No","Sepia officinalis","Sepia officinalis","Sepia officinalis",1612,NA,NA,NA,NA,NA,NA,NA
+"107",1616,"Genus group","Holocentridae","Holocentrus","spp.",NA,"Yes","Holocentrus spp.",NA,NA,1624,NA,NA,NA,NA,NA,NA,NA
+"108",1616,"Individual species","Haemulidae","Haemulon","flavolineatum",NA,"No","Haemulon flavolineatum","Haemulon flavolineatum","Haemulon flavolineatum",1636,1135,"Haemulon","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"109",1616,"Individual species","Chaetodontidae","Chaetodon","striatus",NA,"No","Chaetodon striatus","Chaetodon striatus","Chaetodon striatus",1648,3606,"Chaetodon",NA,"Chaetodontidae","Acanthuriformes","Teleostei","Osteichthyes"
+"110",1616,"Individual species","Pomacentridae","Microspathodon","chrysurus",NA,"No","Microspathodon chrysurus","Microspathodon chrysurus","Microspathodon chrysurus",1660,1122,"Microspathodon","Microspathodontinae","Pomacentridae","Ovalentaria/misc","Teleostei","Osteichthyes"
+"111",1616,"Genus group","Scaridae","Scarus","spp.",NA,"No","Scarus spp.",NA,NA,1672,NA,NA,NA,NA,NA,NA,NA
+"112",1616,"Individual species","Acanthuridae","Acanthurus","bahianus",NA,"No","Acanthurus bahianus","Acanthurus bahianus","Acanthurus bahianus",1684,68792,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"113",1616,"Number of trappable size fish (Crest-spur zone_","Haemulidae","Haemulon","chrysargyreum",NA,"No","Haemulon chrysargyreum","Brachygenys chrysargyrea","Brachygenys chrysargyrea",1748,1134,"Brachygenys","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"114",1616,"Trappable size fish (Crest-spur zone)","Haemulidae","Haemulon","aurolineatum",NA,"No","Haemulon aurolineatum","Haemulon aurolineatum","Haemulon aurolineatum",1787,1128,"Haemulon","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"115",1616,"Trappable size fish (Crest-spur zone)","Pomacentridae","Pomacentrus","spp.",NA,"No","Pomacentrus spp.",NA,NA,1800,NA,NA,NA,NA,NA,NA,NA
+"116",1616,"Trappable size fish (Crest-spur zone)","Acanthuridae","Acanthurus","coeruleus",NA,"No","Acanthurus coeruleus","Acanthurus coeruleus","Acanthurus coeruleus",1813,944,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"117",1616,"Trappable size fish (Crest-spur zone)","Acanthuridae ","Acanthurus","coeruleus",NA,"No","Acanthurus coeruleus",NA,"Acanthurus coeruleus",1823,944,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"118",1616,"Trappable size fish (Crest-spur zone)","Scaridae","Scarus","vetula",NA,"No","Scarus vetula","Scarus vetula","Scarus vetula",1839,1157,"Scarus","Scarinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"119",1616,"Trappable size fish (Crest-spur zone)","Mullidae","Mulloidichthys","martinicus",NA,"No","Mulloidichthys martinicus","Mulloidichthys martinicus","Mulloidichthys martinicus",1852,1092,"Mulloidichthys",NA,"Mullidae","Mulliformes","Teleostei","Osteichthyes"
+"120",1617,"Individual species","Epinephelidae","Epinephelus","striatus",NA,"Yes","Epinephelus striatus","Epinephelus striatus","Epinephelus striatus",1877,18,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"121",1618,"Individual species","Palinuridae","Jasus","edwardsii",NA,"Yes","Jasus edwardsii",NA,"Jasus edwardsii",1892,NA,NA,NA,NA,NA,NA,NA
+"122",398,"Individual species","Plainuridae","Homarus","gammarus",NA,"Yes","Homarus gammarus",NA,"Homarus gammarus",1919,NA,NA,NA,NA,NA,NA,NA
+"123",398,"Individual species","Palinuridae","Homarus","gammarus",NA,"Yes","Homarus gammarus",NA,"Homarus gammarus",1924,NA,NA,NA,NA,NA,NA,NA
+"124",398,"Individual species","Cancridae","Cancer","pagurus",NA,"Yes","Cancer pagurus",NA,"Cancer pagurus",1967,NA,NA,NA,NA,NA,NA,NA
+"125",398,"Individual species","Majidae","Maja","brachydactyla",NA,"No","Maja brachydactyla","Maja brachydactyla","Maja brachydactyla",2015,NA,NA,NA,NA,NA,NA,NA
+"126",398,"Individual species","Majida","Maja","brachydactyla",NA,"No","Maja brachydactyla",NA,"Maja brachydactyla",2049,NA,NA,NA,NA,NA,NA,NA
+"127",1020,"Individual species","Strombidae","Strombus","gigas",NA,"No","Strombus gigas","Aliger gigas","Aliger gigas",2063,NA,NA,NA,NA,NA,NA,NA
+"128",61,"Individual species","Sparidae","Chrysoblephus","laticeps",NA,"No","Chrysoblephus laticeps","Chrysoblephus laticeps","Chrysoblephus laticeps",2103,5529,"Chrysoblephus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"129",72,"Family group","Serranidae",NA,NA,NA,"No",NA,NA,NA,2108,NA,NA,NA,NA,NA,NA,NA
+"130",72,"Genus group","Sparidae","Diplodus","spp.",NA,"Yes","Diplodus spp.",NA,NA,2149,NA,NA,NA,NA,NA,NA,NA
+"131",72,"Individual species","Mullidae","Mullus","surmuletus",NA,"Yes","Mullus surmuletus",NA,"Mullus surmuletus",2164,1327,"Mullus",NA,"Mullidae","Mulliformes","Teleostei","Osteichthyes"
+"132",72,"Small Serranids","Serranids",NA,NA,"Small Serranids","Yes",NA,NA,NA,2215,NA,NA,NA,NA,NA,NA,NA
+"133",72,"Individual species","Labridae","Coris","julis",NA,"Yes","Coris julis","Coris julis","Coris julis",2259,58,"Coris","Corinae","Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"134",72,"Individual species","Sciaenidae","Sciaena","umbra",NA,"Yes","Sciaena umbra",NA,"Sciaena umbra",2270,1707,"Sciaena",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"135",72,"Other Sparids","Sparidae",NA,NA,"Other Sparids","Yes",NA,NA,NA,2323,NA,NA,NA,NA,NA,NA,NA
+"136",791,"Individual species","Palinuridae","Panulirus","interruptus",NA,"No","Panulirus interruptus",NA,"Panulirus interruptus",2493,NA,NA,NA,NA,NA,NA,NA
+"137",778,"Functional group","Sparidae",NA,NA,"large predatory reef fish","No",NA,NA,NA,2502,NA,NA,NA,NA,NA,NA,NA
+"138",666,"Target species as a group","Sparidae",NA,NA,"trappable (exploited) reef fishes","Yes",NA,NA,NA,2508,NA,NA,NA,NA,NA,NA,NA
+"139",8,"Genus group","Acanthuridae","Acanthurus","spp.",NA,"Yes","Acanthurus spp.",NA,NA,2548,NA,NA,NA,NA,NA,NA,NA
+"140",8,"Genus group","Kyphosidae","Kyphosus","spp.",NA,"Yes","Kyphosus spp.",NA,NA,2549,NA,NA,NA,NA,NA,NA,NA
+"141",8,"Genus group","Lutjanidae","Lutjanus","spp.",NA,"Yes","Lutjanus spp.",NA,NA,2550,NA,NA,NA,NA,NA,NA,NA
+"142",8,"Family group","Caesionidae",NA,NA,NA,"Yes",NA,NA,NA,2553,NA,NA,NA,NA,NA,NA,NA
+"143",8,"Genus group","Carangidae","Caranx","spp.",NA,"No","Caranx spp.",NA,NA,2555,NA,NA,NA,NA,NA,NA,NA
+"144",8,"Family group","Epinephelinae",NA,NA,NA,"Yes",NA,NA,NA,2557,NA,NA,NA,NA,NA,NA,NA
+"145",8,"Genus group","Acanthuridae","Naso","spp.",NA,"Yes","Naso spp.",NA,NA,2560,NA,NA,NA,NA,NA,NA,NA
+"146",8,"Family group","Scaridae",NA,NA,NA,"Yes",NA,NA,NA,2561,NA,NA,NA,NA,NA,NA,NA
+"147",8,"Family group","Mullidae",NA,NA,NA,"Yes",NA,NA,NA,2564,NA,NA,NA,NA,NA,NA,NA
+"148",8,"Family group","Lethrinidae",NA,NA,NA,"Yes",NA,NA,NA,2571,NA,NA,NA,NA,NA,NA,NA
+"149",57,"Species","Labridae","Coris","julis",NA,"No","Coris julis",NA,"Coris julis",2618,58,"Coris","Corinae","Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"150",57,"Species",NA,"Diplodus","annularis",NA,"No","Diplodus annularis","Diplodus annularis","Diplodus annularis",2619,1752,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"151",57,"Species","Sparidae","Diplodus","sargus",NA,"No","Diplodus sargus","Diplodus sargus","Diplodus sargus",2620,1753,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"152",57,"Species","Sparidae","Diplodus","vulgaris",NA,"No","Diplodus vulgaris",NA,"Diplodus vulgaris",2621,1754,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"153",57,"Species","Labridae","Labrus","merula",NA,"Yes","Labrus merula",NA,"Labrus merula",2622,4582,"Labrus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"154",57,"Species",NA,"Sarpa","salpa",NA,"Yes","Sarpa salpa","Sarpa salpa","Sarpa salpa",2623,204,"Sarpa",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"155",57,"Species",NA,"Serranus","scriba",NA,"Yes","Serranus scriba","Serranus scriba","Serranus scriba",2624,1761,"Serranus",NA,"Serranidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"156",57,"Species",NA,"Spondyliosoma","cantharus",NA,"No","Spondyliosoma cantharus","Spondyliosoma cantharus","Spondyliosoma cantharus",2625,1356,"Spondyliosoma",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"157",57,"Species",NA,"Symphodus","ocellatus",NA,"No","Symphodus ocellatus","Symphodus ocellatus","Symphodus ocellatus",2626,1792,"Symphodus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"158",57,"Species",NA,"Symphodus","rostratus",NA,"No","Symphodus rostratus","Symphodus rostratus","Symphodus rostratus",2627,4580,"Symphodus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"159",57,"Species","Labridae","Symphodus","tinca",NA,"No","Symphodus tinca",NA,"Symphodus tinca",2628,1708,"Symphodus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"160",57,"Species",NA,"Thalassoma","pavo",NA,"Yes","Thalassoma pavo","Thalassoma pavo","Thalassoma pavo",2629,2500,"Thalassoma","Corinae","Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"161",57,"Species",NA,"Apogon","imberbis",NA,"No","Apogon imberbis","Apogon imberbis","Apogon imberbis",2648,1693,"Apogon","Apogoninae","Apogonidae","Kurtiformes","Teleostei","Osteichthyes"
+"162",57,"Species","Sparidae","Dentex","dentex",NA,"No","Dentex dentex",NA,"Dentex dentex",2650,439,"Dentex",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"163",57,"Species","Sparidae","Diplodus","cervinus",NA,"Yes","Diplodus cervinus","Diplodus cervinus","Diplodus cervinus",2652,2497,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"164",57,"Species","Sparidae  ","Diplodus","puntazzo",NA,"No","Diplodus puntazzo","Diplodus puntazzo","Diplodus puntazzo",2653,1749,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"165",57,"Species","Epinephelidae","Epinephelus","marginatus",NA,"No","Epinephelus marginatus","Epinephelus marginatus","Epinephelus marginatus",2656,6470,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"166",57,"Species","Sciaenidae","Sciaena","umbra",NA,"No","Sciaena umbra",NA,"Sciaena umbra",2659,1707,"Sciaena",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"167",57,"Species",NA,"Symphodus","mediterraneus",NA,"No","Symphodus mediterraneus","Symphodus mediterraneus","Symphodus mediterraneus",2662,4578,"Symphodus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"168",57,"Species",NA,"Symphodus","roissali",NA,"No","Symphodus roissali","Symphodus roissali","Symphodus roissali",2664,1709,"Symphodus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"169",93,"Target species as a group","Lethrinidae",NA,NA,"Target fish","Yes",NA,NA,NA,2688,NA,NA,NA,NA,NA,NA,NA
+"170",93,"Species","Gadidae","Melanogrammus","aeglefinus",NA,"Yes","Melanogrammus aeglefinus","Melanogrammus aeglefinus","Melanogrammus aeglefinus",2713,1381,"Melanogrammus",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"171",93,"Species","Pleuronectidae","Limanda","ferruginea",NA,"Yes","Limanda ferruginea","Myzopsetta ferruginea","Myzopsetta ferruginea",2718,521,"Myzopsetta","Pleuronectinae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"172",93,"Species","Lophiidae","Lophius","americanus",NA,"Yes","Lophius americanus","Lophius americanus","Lophius americanus",2723,532,"Lophius",NA,"Lophiidae","Lophiiformes","Teleostei","Osteichthyes"
+"173",93,"Species","Gadidae","Gadus","morhua",NA,"No","Gadus morhua","Gadus morhua","Gadus morhua",2724,69,"Gadus",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"174",93,"Species","Pleuronectidae","Pseudopleuronectes","americanus",NA,"Yes","Pseudopleuronectes americanus","Pseudopleuronectes americanus","Pseudopleuronectes americanus",2725,524,"Pseudopleuronectes","Pleuronectinae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"175",93,"Species","Pleuronectidae","Glyptocephalus","cynoglossus",NA,"Yes","Glyptocephalus cynoglossus","Glyptocephalus cynoglossus","Glyptocephalus cynoglossus",2726,26,"Glyptocephalus","Microstominae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"176",93,"Species","Pleuronectidae","Hippoglossoides","platessoides",NA,"Yes","Hippoglossoides platessoides","Hippoglossoides platessoides","Hippoglossoides platessoides",2728,4239,"Hippoglossoides","Pleuronectinae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"177",93,"Species","Phycidae","Urophycis","chuss",NA,"Yes","Urophycis chuss","Urophycis chuss","Urophycis chuss",2730,312,"Urophycis",NA,"Phycidae","Gadiformes","Teleostei","Osteichthyes"
+"178",93,"Species","Phycidae","Urophycis","tenuis",NA,"Yes","Urophycis tenuis","Urophycis tenuis","Urophycis tenuis",2731,313,"Urophycis",NA,"Phycidae","Gadiformes","Teleostei","Osteichthyes"
+"179",93,"Species","Scorpaenidae","Sebastes","fasciatus",NA,"No","Sebastes fasciatus","Sebastes fasciatus","Sebastes fasciatus",2732,3969,"Sebastes","Sebastinae","Sebastidae","Perciformes/Scorpaenoidei","Teleostei","Osteichthyes"
+"180",93,"Species","Gadidae","Pollachius","virens",NA,"No","Pollachius virens","Pollachius virens","Pollachius virens",2733,1343,"Pollachius",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"181",93,"Species","Squalidae","Squalus","acanthias",NA,"No","Squalus acanthias","Squalus acanthias","Squalus acanthias",2734,139,"Squalus",NA,"Squalidae","Squaliformes","Elasmobranchii","Chondrichthyes"
+"182",93,"Species","Merlucciidae","Merluccius","bilinearis",NA,"No","Merluccius bilinearis","Merluccius bilinearis","Merluccius bilinearis",2735,323,"Merluccius",NA,"Merlucciidae","Gadiformes","Teleostei","Osteichthyes"
+"183",118,"Species","Scombridae","Thunnus","obesus",NA,"Yes","Thunnus obesus","Thunnus obesus","Thunnus obesus",2738,146,"Thunnus","Scombrinae","Scombridae","Scombriformes","Teleostei","Osteichthyes"
+"184",118,"Species","Scombridae","Thunnus","albacares",NA,"Yes","Thunnus albacares","Thunnus albacares","Thunnus albacares",2739,143,"Thunnus","Scombrinae","Scombridae","Scombriformes","Teleostei","Osteichthyes"
+"185",118,"Target species as a group","Scombridae","Thunnus","obesus","Tuna species - Thunnus obesus and Thunnus albacares","Yes","Thunnus obesus",NA,NA,2741,NA,NA,NA,NA,NA,NA,NA
+"186",118,"Target species as a group","Scombridae","Thunnus","albacares","Tuna species - Thunnus obesus and Thunnus albacares","Yes","Thunnus albacares",NA,NA,2741,NA,NA,NA,NA,NA,NA,NA
+"187",432,"Species","Palinuridae","Panulirus","interruptus",NA,"Yes","Panulirus interruptus",NA,"Panulirus interruptus",2753,NA,NA,NA,NA,NA,NA,NA
+"188",592,"Species","Sparidae  ","Diplodus","puntazzo",NA,"Yes","Diplodus puntazzo",NA,"Diplodus puntazzo",2763,1749,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"189",592,"Species","Sparidae","Diplodus","puntazzo",NA,"Yes","Diplodus puntazzo",NA,"Diplodus puntazzo",2764,1749,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"190",592,"Species","Sparidae","Diplodus","sargus",NA,"Yes","Diplodus sargus",NA,"Diplodus sargus",2765,1753,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"191",592,"Species","Sparidae","Diplodus","vulgaris",NA,"Yes","Diplodus vulgaris",NA,"Diplodus vulgaris",2767,1754,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"192",592,"Species","Sparidae ","Diplodus","puntazzo",NA,"No","Diplodus puntazzo",NA,"Diplodus puntazzo",2793,1749,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"193",772,"Species","Lethrinidae",NA,NA,"Exploited demersal fish community","Yes",NA,NA,NA,2803,NA,NA,NA,NA,NA,NA,NA
+"194",1319,"Species","Lophiidae","Lophius","americanus",NA,"Yes","Lophius americanus",NA,"Lophius americanus",2813,532,"Lophius",NA,"Lophiidae","Lophiiformes","Teleostei","Osteichthyes"
+"195",1319,"Species","Gadidae","Gadus","morhua",NA,"Yes","Gadus morhua",NA,"Gadus morhua",2814,69,"Gadus",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"196",1319,"Species","Pleuronectidae","Pseudopleuronectes","americanus",NA,"Yes","Pseudopleuronectes americanus",NA,"Pseudopleuronectes americanus",2815,524,"Pseudopleuronectes","Pleuronectinae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"197",1319,"Species","Pleuronectidae","Glyptocephalus","cynoglossus",NA,"Yes","Glyptocephalus cynoglossus",NA,"Glyptocephalus cynoglossus",2816,26,"Glyptocephalus","Microstominae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"198",1319,"Species","Pleuronectidae","Limanda","ferruginea",NA,"No","Limanda ferruginea",NA,"Myzopsetta ferruginea",2817,521,"Myzopsetta","Pleuronectinae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"199",1319,"Species","Pleuronectidae","Hippoglossoides","platessoides",NA,"Yes","Hippoglossoides platessoides",NA,"Hippoglossoides platessoides",2818,4239,"Hippoglossoides","Pleuronectinae","Pleuronectidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"200",1319,"Species","Gadidae","Melanogrammus","aeglefinus",NA,"Yes","Melanogrammus aeglefinus",NA,"Melanogrammus aeglefinus",2819,1381,"Melanogrammus",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"201",1319,"Species","Scorpaenidae","Sebastes","fasciatus",NA,"No","Sebastes fasciatus",NA,"Sebastes fasciatus",2820,3969,"Sebastes","Sebastinae","Sebastidae","Perciformes/Scorpaenoidei","Teleostei","Osteichthyes"
+"202",1319,"Species","Gadidae","Pollachius","virens",NA,"Yes","Pollachius virens",NA,"Pollachius virens",2821,1343,"Pollachius",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"203",1319,"Species","Squalidae","Squalus","acanthias",NA,"No","Squalus acanthias",NA,"Squalus acanthias",2822,139,"Squalus",NA,"Squalidae","Squaliformes","Elasmobranchii","Chondrichthyes"
+"204",1319,"Species","Merlucciidae","Merluccius","bilinearis",NA,"Yes","Merluccius bilinearis",NA,"Merluccius bilinearis",2823,323,"Merluccius",NA,"Merlucciidae","Gadiformes","Teleostei","Osteichthyes"
+"205",1026,"Functional group","Acanthuridae",NA,NA,"Five families of reef fish (Acanthuridae, Carangidae, Lutjanidae, Lethrinidae, and Caesionidae)",NA,NA,NA,NA,2863,NA,NA,NA,NA,NA,NA,NA
+"206",1026,"Functional group","Carangidae",NA,NA,"Five families of reef fish (Acanthuridae, Carangidae, Lutjanidae, Lethrinidae, and Caesionidae)",NA,NA,NA,NA,2863,NA,NA,NA,NA,NA,NA,NA
+"207",1026,"Functional group","Lutjanidae",NA,NA,"Five families of reef fish (Acanthuridae, Carangidae, Lutjanidae, Lethrinidae, and Caesionidae)",NA,NA,NA,NA,2863,NA,NA,NA,NA,NA,NA,NA
+"208",1026,"Functional group","Lethrinidae",NA,NA,"Five families of reef fish (Acanthuridae, Carangidae, Lutjanidae, Lethrinidae, and Caesionidae)",NA,NA,NA,NA,2863,NA,NA,NA,NA,NA,NA,NA
+"209",1026,"Functional group","Caesionidae",NA,NA,"Five families of reef fish (Acanthuridae, Carangidae, Lutjanidae, Lethrinidae, and Caesionidae)",NA,NA,NA,NA,2863,NA,NA,NA,NA,NA,NA,NA
+"210",980,"Target species as a group","Caesionidae",NA,NA," targeted fish","Yes",NA,NA,NA,2883,NA,NA,NA,NA,NA,NA,NA
+"211",35,"Individual species","Palinuridae","Panulirus","interruptus",NA,"Yes","Panulirus interruptus",NA,"Panulirus interruptus",2903,NA,NA,NA,NA,NA,NA,NA
+"212",192,"Individual species","Palinuridae","Palinurus","elephas",NA,"Yes","Palinurus elephas",NA,"Palinurus elephas",3003,NA,NA,NA,NA,NA,NA,NA
+"213",234,"Individual species","Sciaenidae","Pogonias","cromis",NA,"Yes","Pogonias cromis","Pogonias cromis","Pogonias cromis",3013,425,"Pogonias",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"214",234,"Individual species","Sciaenidae","Sciaenops","ocellatus",NA,"Yes","Sciaenops ocellatus","Sciaenops ocellatus","Sciaenops ocellatus",3043,1191,"Sciaenops",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"215",234,"Individual species","Sciaenidae","Cynoscion","nebulosus",NA,"Yes","Cynoscion nebulosus","Cynoscion nebulosus","Cynoscion nebulosus",3073,405,"Cynoscion",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"216",234,"Target species as a group","Caesionidae",NA,NA,"All game fish","Yes",NA,NA,NA,3103,NA,NA,NA,NA,NA,NA,NA
+"217",267,"Target species as a group","Caesionidae",NA,NA,"Trawl catch","No",NA,NA,NA,3163,NA,NA,NA,NA,NA,NA,NA
+"218",474,"Individual species","Gobiidae","Gobius","niger",NA,"No","Gobius niger","Gobius niger","Gobius niger",3233,72,"Gobius","Gobiinae","Gobiidae","Gobiiformes","Teleostei","Osteichthyes"
+"219",474,"Individual species","Labridae","Ctenolabrus","rupestris",NA,"No","Ctenolabrus rupestris","Ctenolabrus rupestris","Ctenolabrus rupestris",3243,61,"Ctenolabrus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"220",474,"Individual species","Gadidae","Gadus","morhua",NA,"No","Gadus morhua",NA,"Gadus morhua",3253,69,"Gadus",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"221",474,"Individual species","Gasterosteidae","Gasterosteus","aculeatus",NA,"No","Gasterosteus aculeatus","Gasterosteus aculeatus","Gasterosteus aculeatus",3263,2420,"Gasterosteus",NA,"Gasterosteidae","Perciformes/Gasterosteoidei","Teleostei","Osteichthyes"
+"222",591,"Target species as a group","Scombridae","Thunnus","albacares","Thunnus albacares, Thunnus obesus, Katsuwonus pelamis","Yes","Thunnus albacares",NA,NA,3728,NA,NA,NA,NA,NA,NA,NA
+"223",591,"Target species as a group","Scombridae","Thunnus","obesus","Thunnus albacares, Thunnus obesus, Katsuwonus pelamis","Yes","Thunnus obesus",NA,NA,3728,NA,NA,NA,NA,NA,NA,NA
+"224",591,"Target species as a group","Scombridae","Katsuwonus","pelamis","Thunnus albacares, Thunnus obesus, Katsuwonus pelamis","Yes","Katsuwonus pelamis",NA,NA,3728,NA,NA,NA,NA,NA,NA,NA
+"225",643,"Target species as a group",NA,"Serranus","cabrilla","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Serranus cabrilla",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"226",643,"Target species as a group","Labridae","Coris","julis","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Coris julis",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"227",643,"Target species as a group","Labridae","Labrus","merula","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Labrus merula",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"228",643,"Target species as a group",NA,"Pagrus","pagrus","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Pagrus pagrus",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"229",643,"Target species as a group","Scorpaenidae","Scorpaena","porcus","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Scorpaena porcus",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"230",643,"Target species as a group",NA,"Scorpaena","notata","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Scorpaena notata",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"231",643,"Target species as a group","Mullidae","Mullus","surmuletus","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Mullus surmuletus",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"232",643,"Target species as a group","Sparidae","Diplodus","sargus","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Diplodus sargus",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"233",643,"Target species as a group","Sparidae","Diplodus","vulgaris","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Diplodus vulgaris",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"234",643,"Target species as a group",NA,"Diplodus","annularis","Target species (Serranus cabrilla, Coris julis, Labrus merula, Pagrus pagrus, Scorpaena porcus, Scorpaena notata, Mullus surmuletus, Diplodus sargus, Diplodus vulgaris, Diplodus annularis)","No","Diplodus annularis",NA,NA,3773,NA,NA,NA,NA,NA,NA,NA
+"235",1206,"Target species as a group","Caesionidae",NA,NA,"Longline fishery","Yes",NA,NA,NA,3783,NA,NA,NA,NA,NA,NA,NA
+"236",1239,"Individual species","Palinuridae","Jasus","edwardsii",NA,"No","Jasus edwardsii",NA,"Jasus edwardsii",3818,NA,NA,NA,NA,NA,NA,NA
+"237",1265,"Individual species","Nephropidae","Nephrops","norvegicus",NA,"Yes","Nephrops norvegicus","Nephrops norvegicus","Nephrops norvegicus",3848,NA,NA,NA,NA,NA,NA,NA
+"238",1395,"Target species as a group","Caesionidae",NA,NA,"All species vulnerable to fishing","Yes",NA,NA,NA,3868,NA,NA,NA,NA,NA,NA,NA
+"239",1395,"Individual species","Epinephelidae","Epinephelus","marginatus",NA,"Yes","Epinephelus marginatus",NA,"Epinephelus marginatus",3958,6470,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"240",1395,"Individual species","Sparidae","Sparus","aurata",NA,"No","Sparus aurata","Sparus aurata","Sparus aurata",3988,1164,"Sparus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"241",1395,"Individual species","Sparidae","Dentex","dentex",NA,"No","Dentex dentex",NA,"Dentex dentex",4018,439,"Dentex",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"242",1395,"Individual species","Sparidae","Sparus","auratus",NA,"No","Sparus auratus","Sparus aurata","Sparus aurata",4038,1164,"Sparus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"243",1395,"Individual species","Moronidae","Dicentrarchus","labrax",NA,"No","Dicentrarchus labrax","Dicentrarchus labrax","Dicentrarchus labrax",4048,63,"Dicentrarchus",NA,"Moronidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"244",1395,"Individual species","Sparidae","Diplodus","cervinus",NA,"No","Diplodus cervinus",NA,"Diplodus cervinus",4078,2497,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"245",1395,"Individual species","Sciaenidae","Sciaena","umbra",NA,"Yes","Sciaena umbra",NA,"Sciaena umbra",4108,1707,"Sciaena",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"246",1035,"Target species as a group","Acanthuridae",NA,NA,"five commercially important reef-fish families (Acanthuridae, Scaridae, Serranidae, Haemulidae, Lutjanidae)","Yes",NA,NA,NA,4138,NA,NA,NA,NA,NA,NA,NA
+"247",1035,"Target species as a group","Scaridae",NA,NA,"five commercially important reef-fish families (Acanthuridae, Scaridae, Serranidae, Haemulidae, Lutjanidae)","Yes",NA,NA,NA,4138,NA,NA,NA,NA,NA,NA,NA
+"248",1035,"Target species as a group","Serranidae",NA,NA,"five commercially important reef-fish families (Acanthuridae, Scaridae, Serranidae, Haemulidae, Lutjanidae)","Yes",NA,NA,NA,4138,NA,NA,NA,NA,NA,NA,NA
+"249",1035,"Target species as a group","Haemulidae",NA,NA,"five commercially important reef-fish families (Acanthuridae, Scaridae, Serranidae, Haemulidae, Lutjanidae)","Yes",NA,NA,NA,4138,NA,NA,NA,NA,NA,NA,NA
+"250",1035,"Target species as a group","Lutjanidae",NA,NA,"five commercially important reef-fish families (Acanthuridae, Scaridae, Serranidae, Haemulidae, Lutjanidae)","Yes",NA,NA,NA,4138,NA,NA,NA,NA,NA,NA,NA
+"251",1033,"Functional group","Lutjanidae",NA,NA,"major functional/taxonomic groups (finfish, crustaceans, molluscs, sharks/rays)","No",NA,NA,NA,4148,NA,NA,NA,NA,NA,NA,NA
+"252",1133,"Functional group","Lutjanidae",NA,NA,"major functional/taxonomic groups (finfish, crustaceans, molluscs, sharks/rays)","No",NA,NA,NA,4158,NA,NA,NA,NA,NA,NA,NA
+"253",982,"Target species as a group","Lutjanidae",NA,NA,"Targeted species ",NA,NA,NA,NA,4363,NA,NA,NA,NA,NA,NA,NA
+"254",244,"Functional group","Lutjanidae",NA,NA,"Large-bodied, commercially important reef fish","Yes",NA,NA,NA,4443,NA,NA,NA,NA,NA,NA,NA
+"255",244,"Individual species","Lutjanidae","Lutjanus","cyanopterus",NA,"Yes","Lutjanus cyanopterus","Lutjanus cyanopterus","Lutjanus cyanopterus",4483,1427,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"256",244,"Individual species","Lutjanidae","Lutjanus","analis",NA,"Yes","Lutjanus analis","Lutjanus analis","Lutjanus analis",4523,1403,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"257",244,"Individual species","Labridae","Lachnolaimus","maximus",NA,"Yes","Lachnolaimus maximus","Lachnolaimus maximus","Lachnolaimus maximus",4563,1071,"Lachnolaimus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"258",803,"Family group","Mullidae",NA,NA,NA,NA,NA,NA,NA,4643,NA,NA,NA,NA,NA,NA,NA
+"259",803,"Commodity group (octopus; non-taxonomic)",NA,"Octopus",NA,"Octopus",NA,NA,NA,NA,4718,NA,NA,NA,NA,NA,NA,NA
+"260",803,"Family group","Scaridae",NA,NA,NA,NA,NA,NA,NA,4723,NA,NA,NA,NA,NA,NA,NA
+"261",803,"Family group","Siganidae",NA,NA,NA,NA,NA,NA,NA,4763,NA,NA,NA,NA,NA,NA,NA
+"262",803,"Functional group","Lethrinidae",NA,NA,"Lethrinidae, Lutjanidae, and Haemulidae; carnivores",NA,NA,NA,NA,4803,NA,NA,NA,NA,NA,NA,NA
+"263",803,"Functional group","Lutjanidae",NA,NA,"Lethrinidae, Lutjanidae, and Haemulidae; carnivores",NA,NA,NA,NA,4803,NA,NA,NA,NA,NA,NA,NA
+"264",803,"Functional group","Haemulidae",NA,NA,"Lethrinidae, Lutjanidae, and Haemulidae; carnivores",NA,NA,NA,NA,4803,NA,NA,NA,NA,NA,NA,NA
+"265",694,"Trophic levels","Haemulidae",NA,NA,"predatory reef fishes","No",NA,NA,NA,4843,NA,NA,NA,NA,NA,NA,NA
+"266",694,"Family group","Labridae",NA,NA,NA,"Yes",NA,NA,NA,4943,NA,NA,NA,NA,NA,NA,NA
+"267",694,"Family group","Scaridae",NA,NA,NA,"No",NA,NA,NA,5043,NA,NA,NA,NA,NA,NA,NA
+"268",694,"Family group","Pomacentridae",NA,NA,NA,"No",NA,NA,NA,5138,NA,NA,NA,NA,NA,NA,NA
+"269",694,"Family group","Chaetodontidae",NA,NA,NA,"No",NA,NA,NA,5198,NA,NA,NA,NA,NA,NA,NA
+"270",147,"Individual species","Epinephelidae","Epinephelus","striatus",NA,"No","Epinephelus striatus",NA,"Epinephelus striatus",5338,18,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"271",147,"Individual species","Labridae","Lachnolaimus","maximus",NA,"Yes","Lachnolaimus maximus",NA,"Lachnolaimus maximus",5368,1071,"Lachnolaimus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"272",147,"Individual species","Haemulidae","Haemulon","album",NA,"No","Haemulon album","Haemulon album","Haemulon album",5398,1126,"Haemulon","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"273",181,"Species","Palinuridae","Jasus","edwardsii",NA,NA,"Jasus edwardsii",NA,"Jasus edwardsii",5443,NA,NA,NA,NA,NA,NA,NA
+"274",576,"Species","Epinephelidae","Plectropomus","leopardus",NA,NA,"Plectropomus leopardus","Plectropomus leopardus","Plectropomus leopardus",5448,4826,"Plectropomus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"275",865,"Functional group","Lutjanidae",NA,NA,"Piscivorous fish (Lutjanidae, Haemulidae, Serranidae)","Yes",NA,NA,NA,5468,NA,NA,NA,NA,NA,NA,NA
+"276",865,"Functional group","Haemulidae",NA,NA,"Piscivorous fish (Lutjanidae, Haemulidae, Serranidae)","Yes",NA,NA,NA,5468,NA,NA,NA,NA,NA,NA,NA
+"277",865,"Functional group","Serranidae",NA,NA,"Piscivorous fish (Lutjanidae, Haemulidae, Serranidae)","Yes",NA,NA,NA,5468,NA,NA,NA,NA,NA,NA,NA
+"278",1356,"Species","Ostreidae","Crassostrea","virginica",NA,NA,"Crassostrea virginica","Crassostrea virginica","Crassostrea virginica",5483,NA,NA,NA,NA,NA,NA,NA
+"279",1360,"Species","Serranidae","Plectropomus","maculatus",NA,NA,"Plectropomus maculatus","Plectropomus maculatus","Plectropomus maculatus",5488,4886,"Plectropomus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"280",1360,"Species","Lutjanidae","Lutjanus","carponotatus",NA,NA,"Lutjanus carponotatus","Lutjanus carponotatus","Lutjanus carponotatus",5489,1424,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"281",1400,"Species","Palinuridae","Panulirus","interruptus",NA,"Yes","Panulirus interruptus",NA,"Panulirus interruptus",5493,NA,NA,NA,NA,NA,NA,NA
+"282",1615,"Target species as a group","Scombridae","Thunnus","albacares","Yellowfin tuna, Skipjack tuna, Big Eye tuna","Yes","Thunnus albacares",NA,NA,5503,NA,NA,NA,NA,NA,NA,NA
+"283",1615,"Target species as a group","Scombridae","Katsuwonus","pelamis","Yellowfin tuna, Skipjack tuna, Big Eye tuna","Yes","Katsuwonus pelamis",NA,NA,5503,NA,NA,NA,NA,NA,NA,NA
+"284",1615,"Target species as a group","Scombridae","Thunnus","obesus","Yellowfin tuna, Skipjack tuna, Big Eye tuna","Yes","Thunnus obesus",NA,NA,5503,NA,NA,NA,NA,NA,NA,NA
+"285",518,"Species","Palinuridae","Palinurus","elephas",NA,NA,"Palinurus elephas",NA,"Palinurus elephas",5538,NA,NA,NA,NA,NA,NA,NA
+"286",422,"Species","Sparidae","Diplodus","sargus",NA,"Yes","Diplodus sargus",NA,"Diplodus sargus",5543,1753,"Diplodus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"287",11,"Species group","Acanthuridae","Acanthurus","bahianus",NA,NA,"Acanthurus bahianus",NA,"Acanthurus bahianus",5553,68792,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"288",11,"Species group","Acanthuridae","Acanthurus","coeruleus",NA,NA,"Acanthurus coeruleus",NA,"Acanthurus coeruleus",5554,944,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"289",11,"Species group","Balistidae","Cantherines","pullus",NA,NA,"Cantherines pullus","Cantherhines pullus","Cantherhines pullus",5555,1082,"Cantherhines",NA,"Monacanthidae","Tetraodontiformes","Teleostei","Osteichthyes"
+"290",11,"Species group","Chaetodontidae","Chaetodon","striatus",NA,NA,"Chaetodon striatus",NA,"Chaetodon striatus",5556,3606,"Chaetodon",NA,"Chaetodontidae","Acanthuriformes","Teleostei","Osteichthyes"
+"291",11,"Species group","Haemulidae","Haemulon","flavolineatum",NA,NA,"Haemulon flavolineatum",NA,"Haemulon flavolineatum",5557,1135,"Haemulon","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"292",11,"Species group","Holocentridae","Holocentrus","adscensionis",NA,NA,"Holocentrus adscensionis","Holocentrus adscensionis","Holocentrus adscensionis",5558,1061,"Holocentrus","Holocentrinae","Holocentridae","Holocentriformes","Teleostei","Osteichthyes"
+"293",11,"Species group","Holocentridae","Holocentrus","rufus",NA,NA,"Holocentrus rufus","Holocentrus rufus","Holocentrus rufus",5559,1062,"Holocentrus","Holocentrinae","Holocentridae","Holocentriformes","Teleostei","Osteichthyes"
+"294",11,"Species group","Holocentridae","Myripristis","jacobus",NA,NA,"Myripristis jacobus","Myripristis jacobus","Myripristis jacobus",5560,1063,"Myripristis","Myripristinae","Holocentridae","Holocentriformes","Teleostei","Osteichthyes"
+"295",11,"Species group","Pomacanthidae","Holocanthus","tricolor",NA,NA,"Holocanthus tricolor","Holacanthus tricolor","Holacanthus tricolor",5561,3610,"Holacanthus",NA,"Pomacanthidae","Acanthuriformes","Teleostei","Osteichthyes"
+"296",11,"Species group","Pomacentridae","Microspathodon","chrysurus",NA,NA,"Microspathodon chrysurus",NA,"Microspathodon chrysurus",5562,1122,"Microspathodon","Microspathodontinae","Pomacentridae","Ovalentaria/misc","Teleostei","Osteichthyes"
+"297",11,"Species group","Sacridae","Sparisoma","viride",NA,NA,"Sparisoma viride","Sparisoma viride","Sparisoma viride",5563,1161,"Sparisoma","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"298",11,"Species group","Serranidae","Epinephelus","cruentatus",NA,NA,"Epinephelus cruentatus","Cephalopholis cruentata","Cephalopholis cruentata",5564,12,"Cephalopholis",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"299",11,"Species group","Serranidae","Epinephelus","fulvus",NA,NA,"Epinephelus fulvus","Cephalopholis fulva","Cephalopholis fulva",5565,8816,"Cephalopholis",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"300",11,"Species group","Haemulidae","Haemulon","chrysargyreum",NA,NA,"Haemulon chrysargyreum",NA,"Brachygenys chrysargyrea",5570,1134,"Brachygenys","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"301",11,"Species group","Holocentridae","Holocentrus","refus",NA,NA,"Holocentrus refus",NA,NA,5572,NA,NA,NA,NA,NA,NA,NA
+"302",11,"Species group","Scaridae","Scarus","taeniopterus",NA,NA,"Scarus taeniopterus","Scarus taeniopterus","Scarus taeniopterus",5575,1156,"Scarus","Scarinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"303",11,"Species group","Scaridae","Sparisoma","aurofrenatum",NA,NA,"Sparisoma aurofrenatum","Sparisoma aurofrenatum","Sparisoma aurofrenatum",5576,1158,"Sparisoma","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"304",11,"Species group","Scaridae","Sparisoma","viride",NA,NA,"Sparisoma viride",NA,"Sparisoma viride",5577,1161,"Sparisoma","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"305",11,"Species group","Serrandiae","Epinephelus","cruentatus",NA,NA,"Epinephelus cruentatus",NA,"Cephalopholis cruentata",5578,12,"Cephalopholis",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"306",11,"Species group","Serrandiae","Epinephelus","fulvus",NA,NA,"Epinephelus fulvus",NA,"Cephalopholis fulva",5579,8816,"Cephalopholis",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"307",52,"Species group","Nephropidae","Homarus","gammarus",NA,NA,"Homarus gammarus",NA,"Homarus gammarus",5580,NA,NA,NA,NA,NA,NA,NA
+"308",85,"Species group","Gadidae","Gadus","morhua",NA,NA,"Gadus morhua",NA,"Gadus morhua",5583,69,"Gadus",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"309",85,"Species group","Labridae","Labrus","bergylta",NA,NA,"Labrus bergylta","Labrus bergylta","Labrus bergylta",5584,572,"Labrus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"310",85,"Species group","Gadidae","Pollachius","pollachius",NA,NA,"Pollachius pollachius","Pollachius pollachius","Pollachius pollachius",5585,34,"Pollachius",NA,"Gadidae","Gadiformes","Teleostei","Osteichthyes"
+"311",263,"Species group","Sparidae","Chrysoblephus","laticeps",NA,NA,"Chrysoblephus laticeps",NA,"Chrysoblephus laticeps",5595,5529,"Chrysoblephus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"312",296,"Species group","Acanthuridae","Acanthurus","chirurgus",NA,NA,"Acanthurus chirurgus","Acanthurus chirurgus","Acanthurus chirurgus",5598,943,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"313",296,"Species group","Labridae","Sparisoma","viride",NA,NA,"Sparisoma viride",NA,"Sparisoma viride",5599,1161,"Sparisoma","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"314",272,"Species group","Pinguipedidae","Parapercis","colias",NA,NA,"Parapercis colias","Parapercis colias","Parapercis colias",5601,464,"Parapercis",NA,"Pinguipedidae","Perciformes/Uranoscopoidei","Teleostei","Osteichthyes"
+"315",379,"Species group","Scaridae","Sparisoma","cretense",NA,NA,"Sparisoma cretense","Sparisoma cretense","Sparisoma cretense",5604,13025,"Sparisoma","Sparisomatinae","Scaridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"316",425,"Species group","Palinuridae","Palinurus","elephas",NA,NA,"Palinurus elephas",NA,"Palinurus elephas",5607,NA,NA,NA,NA,NA,NA,NA
+"317",420,"Species group","Soleidae","Solea","senegalensis",NA,NA,"Solea senegalensis","Solea senegalensis","Solea senegalensis",5610,8852,"Solea",NA,"Soleidae","Pleuronectiformes","Teleostei","Osteichthyes"
+"318",1131,"Species group","Sciaenidae","Sciaenops","ocellatus",NA,NA,"Sciaenops ocellatus",NA,"Sciaenops ocellatus",5613,1191,"Sciaenops",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"319",1131,"Species group","Sciaenidae","Pogonias","cromis",NA,NA,"Pogonias cromis",NA,"Pogonias cromis",5614,425,"Pogonias",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"320",1131,"Species group","Sciaenidae","Cynoscion","nebulosus",NA,NA,"Cynoscion nebulosus",NA,"Cynoscion nebulosus",5615,405,"Cynoscion",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"321",1184,"Species group","Serranidae","Epinephelus","marginatus",NA,NA,"Epinephelus marginatus",NA,"Epinephelus marginatus",5619,6470,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"322",1184,"Species group","Serranidae","Serranus","atricauda",NA,NA,"Serranus atricauda","Serranus atricauda","Serranus atricauda",5620,14418,"Serranus",NA,"Serranidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"323",852,"Species group","Hexagrammidae","Ophiodon","elongatus",NA,NA,"Ophiodon elongatus","Ophiodon elongatus","Ophiodon elongatus",5625,509,"Ophiodon","Ophiodontinae","Hexagrammidae","Perciformes/Cottoidei","Teleostei","Osteichthyes"
+"324",1220,"Species group","Hexagrammidae","Ophiodon","elongatus",NA,NA,"Ophiodon elongatus",NA,"Ophiodon elongatus",5631,509,"Ophiodon","Ophiodontinae","Hexagrammidae","Perciformes/Cottoidei","Teleostei","Osteichthyes"
+"325",1088,"Species group","Sciaenidae","Sciaena","umbra",NA,NA,"Sciaena umbra",NA,"Sciaena umbra",5637,1707,"Sciaena",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"326",610,"Species group","Sparidae","Polysteganus","praeorbitalis",NA,NA,"Polysteganus praeorbitalis","Polysteganus praeorbitalis","Polysteganus praeorbitalis",5646,5533,"Polysteganus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"327",1408,"Species group","Acanthuridae","Acanthurus","triostegus",NA,NA,"Acanthurus triostegus","Acanthurus triostegus","Acanthurus triostegus",5649,1260,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"328",1408,"Species group","Epinephelidae","Epinephelus","merra",NA,NA,"Epinephelus merra","Epinephelus merra","Epinephelus merra",5650,4923,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"329",1408,"Species group","Mullidae","Mulloidichthys","flavolineatus",NA,NA,"Mulloidichthys flavolineatus","Mulloidichthys flavolineatus","Mulloidichthys flavolineatus",5651,5983,"Mulloidichthys",NA,"Mullidae","Mulliformes","Teleostei","Osteichthyes"
+"330",1408,"Species group","Acanthuridae","Naso","lituratus",NA,NA,"Naso lituratus","Naso lituratus","Naso lituratus",5652,1264,"Naso","Nasinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"331",1408,"Species group","Siganidae","Siganus","spinus",NA,NA,"Siganus spinus","Siganus spinus","Siganus spinus",5653,4457,"Siganus",NA,"Siganidae","Acanthuriformes","Teleostei","Osteichthyes"
+"332",1408,"Species group","Acanthuridae","Naso","literatus",NA,NA,"Naso literatus","Naso lituratus","Naso lituratus",5658,1264,"Naso","Nasinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"333",1055,"Species group","Sparidae","Rhabdosargus","globiceps",NA,NA,"Rhabdosargus globiceps","Rhabdosargus globiceps","Rhabdosargus globiceps",5667,449,"Rhabdosargus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"334",1431,"Species group","Sparidae","Argyrozona","argyrozona",NA,NA,"Argyrozona argyrozona","Argyrozona argyrozona","Argyrozona argyrozona",5673,443,"Argyrozona",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"335",1442,"Species group","Sphyrnidae","Sphyrna","mokarran",NA,NA,"Sphyrna mokarran","Sphyrna mokarran","Sphyrna mokarran",5676,914,"Sphyrna",NA,"Sphyrnidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"336",1442,"Species group","Carcharhinidae","Carcharhinus","limbatus",NA,NA,"Carcharhinus limbatus","Carcharhinus limbatus","Carcharhinus limbatus",5677,874,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"337",1442,"Species group","Carcharhinidae","Rhizoprionodon","acutus",NA,NA,"Rhizoprionodon acutus","Rhizoprionodon acutus","Rhizoprionodon acutus",5678,899,"Rhizoprionodon",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"338",1442,"Species group","Carcharhinidae","Carcharhinus","sorrah",NA,NA,"Carcharhinus sorrah","Carcharhinus sorrah","Carcharhinus sorrah",5679,884,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"339",1442,"Species group","Carcharhinidae","Carcharhinus","fitzroyensis",NA,NA,"Carcharhinus fitzroyensis","Carcharhinus fitzroyensis","Carcharhinus fitzroyensis",5680,869,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"340",1442,"Species group","Carcharhinidae","Negaprion","brevirostris",NA,NA,"Negaprion brevirostris","Negaprion brevirostris","Negaprion brevirostris",5681,897,"Negaprion",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"341",1442,"Species group","Carcharinidae","Rhizoprionodon","taylori",NA,NA,"Rhizoprionodon taylori","Rhizoprionodon taylori","Rhizoprionodon taylori",5682,904,"Rhizoprionodon",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"342",1442,"Species group","Carcharhinidae","Carcharhinus","amboinensis",NA,NA,"Carcharhinus amboinensis","Carcharhinus amboinensis","Carcharhinus amboinensis",5683,862,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"343",1442,"Species group","Sphyrnidae","Sphyrna","lewini",NA,NA,"Sphyrna lewini","Sphyrna lewini","Sphyrna lewini",5684,912,"Sphyrna",NA,"Sphyrnidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"344",1442,"Species group","Carcharhinidae","Carcharhinus","macloti",NA,NA,"Carcharhinus macloti","Carcharhinus macloti","Carcharhinus macloti",5685,876,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"345",1442,"Species group","Carcharhinidae","Carcharhinus","dussumieri",NA,NA,"Carcharhinus dussumieri","Carcharhinus dussumieri","Carcharhinus dussumieri",5686,867,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"346",1442,"Species group","Carcharhinidae","Carcharhinus","leucas",NA,NA,"Carcharhinus leucas","Carcharhinus leucas","Carcharhinus leucas",5687,873,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"347",1442,"Species group","Carcharhinidae","Carcharhinus","melanopterus",NA,NA,"Carcharhinus melanopterus","Carcharhinus melanopterus","Carcharhinus melanopterus",5688,877,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"348",1442,"Species group","Galeocerdonidae","Galeocerdo","cuvier",NA,NA,"Galeocerdo cuvier","Galeocerdo cuvier","Galeocerdo cuvier",5689,886,"Galeocerdo",NA,"Galeocerdonidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"349",1442,"Species group","Carcharhinidae","Carcharhinus","cautus",NA,NA,"Carcharhinus cautus","Carcharhinus cautus","Carcharhinus cautus",5690,866,"Carcharhinus",NA,"Carcharhinidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"350",1442,"Species group","Ginglymostomatidae","Nebrius","ferrugineus",NA,NA,"Nebrius ferrugineus","Nebrius ferrugineus","Nebrius ferrugineus",5691,5895,"Nebrius",NA,"Ginglymostomatidae","Orectolobiformes","Elasmobranchii","Chondrichthyes"
+"351",1442,"Species group","Sphyrnidae","Eusphyra","blochii",NA,NA,"Eusphyra blochii","Eusphyra blochii","Eusphyra blochii",5692,908,"Eusphyra",NA,"Sphyrnidae","Carcharhiniformes","Elasmobranchii","Chondrichthyes"
+"352",1442,"Species group","Hemiscylliidae","Chiloscyllium","punctatum",NA,NA,"Chiloscyllium punctatum","Chiloscyllium punctatum","Chiloscyllium punctatum",5693,5903,"Chiloscyllium",NA,"Hemiscylliidae","Orectolobiformes","Elasmobranchii","Chondrichthyes"
+"353",1442,"Species group","Stegostomatidae","Stegostoma","tigrinum",NA,NA,"Stegostoma tigrinum","Stegostoma tigrinum","Stegostoma tigrinum",5694,5374,"Stegostoma",NA,"Stegostomatidae","Orectolobiformes","Elasmobranchii","Chondrichthyes"
+"354",1491,"Species group","Epinephelidae","Epinephelus","marginatus",NA,NA,"Epinephelus marginatus",NA,"Epinephelus marginatus",5697,6470,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"355",1560,"Species group","Acanthuridae","Acanthurus","coeruleus",NA,NA,"Acanthurus coeruleus",NA,"Acanthurus coeruleus",5700,944,"Acanthurus","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"356",1560,"Species group","Balistidae","Balistes","vetula",NA,NA,"Balistes vetula","Balistes vetula","Balistes vetula",5701,19,"Balistes",NA,"Balistidae","Tetraodontiformes","Teleostei","Osteichthyes"
+"357",1560,"Species group","Sparidae","Calamus","calamus",NA,NA,"Calamus calamus","Calamus calamus","Calamus calamus",5702,1222,"Calamus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"358",1560,"Species group","Carangidae","Caranx","ruber",NA,NA,"Caranx ruber","Caranx ruber","Caranx ruber",5703,1918,"Caranx","Caranginae","Carangidae","Carangiformes","Teleostei","Osteichthyes"
+"359",1560,"Species group","Haemulidae","Haemulon","sciurus",NA,NA,"Haemulon sciurus","Haemulon sciurus","Haemulon sciurus",5704,1141,"Haemulon","Haemulinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"360",1560,"Species group","Holocentridae","Holocentrus","adscensionis",NA,NA,"Holocentrus adscensionis",NA,"Holocentrus adscensionis",5705,1061,"Holocentrus","Holocentrinae","Holocentridae","Holocentriformes","Teleostei","Osteichthyes"
+"361",1560,"Species group","Lutjanidae","Lutjanus","analis",NA,NA,"Lutjanus analis",NA,"Lutjanus analis",5706,1403,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"362",1560,"Species group","Lutjanidae","Lutjanus","griseus",NA,NA,"Lutjanus griseus","Lutjanus griseus","Lutjanus griseus",5707,266,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"363",1560,"Species group","Lutjanidae","Lutjanus","jocu",NA,NA,"Lutjanus jocu","Lutjanus jocu","Lutjanus jocu",5708,154,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"364",1560,"Species group","Lutjanidae","Lutjanus","synagris",NA,NA,"Lutjanus synagris","Lutjanus synagris","Lutjanus synagris",5709,181,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"365",1560,"Species group","Mullidae","Mulloidichthys","martinicus",NA,NA,"Mulloidichthys martinicus",NA,"Mulloidichthys martinicus",5710,1092,"Mulloidichthys",NA,"Mullidae","Mulliformes","Teleostei","Osteichthyes"
+"366",1560,"Species group","Lutjanidae","Ocyurus","chrysurus",NA,NA,"Ocyurus chrysurus",NA,"Ocyurus chrysurus",5711,188,"Ocyurus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"367",1015,"Species group","Siganidae","Siganus","sutor",NA,NA,"Siganus sutor",NA,"Siganus sutor",5712,4615,"Siganus",NA,"Siganidae","Acanthuriformes","Teleostei","Osteichthyes"
+"368",1015,"Species group","Lethrinidae","Lethrinus","mahsena",NA,NA,"Lethrinus mahsena",NA,"Lethrinus mahsena",5715,1843,"Lethrinus","Lethrininae","Lethrinidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"369",1015,"Species group","Lethrinidae","Lethrinus","miniatus",NA,NA,"Lethrinus miniatus",NA,"Lethrinus miniatus",5718,1858,"Lethrinus","Lethrininae","Lethrinidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"370",1015,"Species group","Haemulidae","Gaterin","flavomaculatus",NA,NA,"Gaterin flavomaculatus","Plectorhinchus flavomaculatus","Plectorhinchus flavomaculatus",5719,7625,"Plectorhinchus","Plectorhinchinae","Haemulidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"371",1007,"Species group","Rajidae","Dipturus","intermedius",NA,NA,"Dipturus intermedius","Dipturus intermedius","Dipturus intermedius",5721,68885,"Dipturus",NA,"Rajidae","Rajiformes","Elasmobranchii","Chondrichthyes"
+"372",244,"Species group","Epinephelidae","Mycteroperca","bonaci",NA,NA,"Mycteroperca bonaci",NA,"Mycteroperca bonaci",5724,1209,"Mycteroperca",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"373",244,"Species group","Epinephelidae","Mycteroperca","venenosa",NA,NA,"Mycteroperca venenosa","Mycteroperca venenosa","Mycteroperca venenosa",5727,1216,"Mycteroperca",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"374",244,"Species group","Epinephelidae","Mycteroperca","tigris",NA,NA,"Mycteroperca tigris","Mycteroperca tigris","Mycteroperca tigris",5730,1215,"Mycteroperca",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"375",244,"Species group","Lutjanidae","Lutjanus","jocu",NA,NA,"Lutjanus jocu",NA,"Lutjanus jocu",5736,154,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"376",244,"Species group","Hypsigenyinae","Lachnolaimus","maximus",NA,NA,"Lachnolaimus maximus",NA,"Lachnolaimus maximus",5740,1071,"Lachnolaimus",NA,"Labridae","Eupercaria/misc","Teleostei","Osteichthyes"
+"377",244,"Species group","Sphyraenidae","Sphyraena","barracuda",NA,NA,"Sphyraena barracuda","Sphyraena barracuda","Sphyraena barracuda",5742,1235,"Sphyraena",NA,"Sphyraenidae","Carangaria/misc","Teleostei","Osteichthyes"
+"378",806,"Species group","Sciaenidae","Sciaenops","ocellatus",NA,NA,"Sciaenops ocellatus",NA,"Sciaenops ocellatus",5745,1191,"Sciaenops",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"379",806,"Species group","Sciaenidae","Pogonias","cromis",NA,NA,"Pogonias cromis",NA,"Pogonias cromis",5748,425,"Pogonias",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"380",806,"Species group","Centropomidae","Centropomus","undecimalis",NA,NA,"Centropomus undecimalis","Centropomus undecimalis","Centropomus undecimalis",5751,345,"Centropomus",NA,"Centropomidae","Carangaria/misc","Teleostei","Osteichthyes"
+"381",806,"Species group","Sciaenidae","Cynoscion","nebulosus",NA,NA,"Cynoscion nebulosus",NA,"Cynoscion nebulosus",5754,405,"Cynoscion",NA,"Sciaenidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"382",806,"Species group","Sparidae","Archosargus","probatocephalus",NA,NA,"Archosargus probatocephalus","Archosargus probatocephalus","Archosargus probatocephalus",5757,441,"Archosargus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"383",783,"Species group","Acanthuridae","Naso","unicornis",NA,NA,"Naso unicornis","Naso unicornis","Naso unicornis",5769,1265,"Naso","Nasinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"384",720,"Species group","Epinephelidae","Plectropomus","leopardus",NA,NA,"Plectropomus leopardus",NA,"Plectropomus leopardus",5772,4826,"Plectropomus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"385",720,"Species group","Lethrinidae","Lethrinus","sp.",NA,NA,"Lethrinus sp.","Lethrinus atkinsoni","Lethrinus atkinsoni",5773,1854,"Lethrinus","Lethrininae","Lethrinidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"386",720,"Species group","Lutjanidae","Lutjanus","carponotatus",NA,NA,"Lutjanus carponotatus",NA,"Lutjanus carponotatus",5774,1424,"Lutjanus","Lutjaninae","Lutjanidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"387",720,"Species group","Serranidae","Cephalopholis","cyanostigma",NA,NA,"Cephalopholis cyanostigma","Cephalopholis cyanostigma","Cephalopholis cyanostigma",5775,6445,"Cephalopholis",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"388",720,"Target species group","Serranidae",NA,NA,"Serranidae, Lutjanidae, and Lethrinidae pooled",NA,NA,NA,NA,5776,NA,NA,NA,NA,NA,NA,NA
+"389",720,"Target species group","Lutjanidae",NA,NA,"Serranidae, Lutjanidae, and Lethrinidae pooled",NA,NA,NA,NA,5776,NA,NA,NA,NA,NA,NA,NA
+"390",720,"Target species group","Lethrinidae",NA,NA,"Serranidae, Lutjanidae, and Lethrinidae pooled",NA,NA,NA,NA,5776,NA,NA,NA,NA,NA,NA,NA
+"391",718,"Species group","Nephropidae","Homarus","gammarus",NA,NA,"Homarus gammarus",NA,"Homarus gammarus",5778,NA,NA,NA,NA,NA,NA,NA
+"392",610,"Species group","Sparidae","Chrysoblephus","puniceus",NA,NA,"Chrysoblephus puniceus","Chrysoblephus puniceus","Chrysoblephus puniceus",5781,5530,"Chrysoblephus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"393",610,"Species group","Epinephelidae","Epinephelus","marginatus",NA,NA,"Epinephelus marginatus",NA,"Epinephelus marginatus",5784,6470,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"394",610,"Species group","Epinephelidae","Epinephelus","andersoni",NA,NA,"Epinephelus andersoni","Epinephelus andersoni","Epinephelus andersoni",5787,5523,"Epinephelus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"395",196,"Species","Pomacentridae","Hypsypops","rubicundus",NA,NA,"Hypsypops rubicundus","Hypsypops rubicundus","Hypsypops rubicundus",5790,3648,"Hypsypops","Microspathodontinae","Pomacentridae","Ovalentaria/misc","Teleostei","Osteichthyes"
+"396",863,"Species","Pomacentridae","Amphiprion","percula",NA,NA,"Amphiprion percula","Amphiprion percula","Amphiprion percula",5802,9209,"Amphiprion","Pomacentrinae","Pomacentridae","Ovalentaria/misc","Teleostei","Osteichthyes"
+"397",863,"Species","Chaetodontidae","Chaetodon","vagabundus",NA,NA,"Chaetodon vagabundus","Chaetodon vagabundus","Chaetodon vagabundus",5803,5582,"Chaetodon",NA,"Chaetodontidae","Acanthuriformes","Teleostei","Osteichthyes"
+"398",1252,"Genus","Serranidae","Plectropomus","spp.",NA,NA,"Plectropomus spp.",NA,NA,5808,NA,NA,NA,NA,NA,NA,NA
+"399",1258,"Species","Serranidae","Plectropomus","maculatus",NA,NA,"Plectropomus maculatus",NA,"Plectropomus maculatus",5811,4886,"Plectropomus",NA,"Epinephelidae","Perciformes/Serranoidei","Teleostei","Osteichthyes"
+"400",598,"Species","Pomacentridae","Amphiprion","melanopus",NA,NA,"Amphiprion melanopus","Amphiprion melanopus","Amphiprion melanopus",5817,4654,"Amphiprion","Pomacentrinae","Pomacentridae","Ovalentaria/misc","Teleostei","Osteichthyes"
+"401",1467,"Species","Acanthuridae","Zebrasoma","flavescens",NA,NA,"Zebrasoma flavescens",NA,"Zebrasoma flavescens",5823,6018,"Zebrasoma","Acanthurinae","Acanthuridae","Acanthuriformes","Teleostei","Osteichthyes"
+"402",1017,"Species","Sparidae","Chrysophrys","auratus",NA,NA,"Chrysophrys auratus","Pagrus auratus","Pagrus auratus",5826,6426,"Pagrus",NA,"Sparidae","Eupercaria/misc","Teleostei","Osteichthyes"
+"403",786,"Species","Chaetodontidae","Chaetodon","vagabundus",NA,NA,"Chaetodon vagabundus",NA,"Chaetodon vagabundus",5829,5582,"Chaetodon",NA,"Chaetodontidae","Acanthuriformes","Teleostei","Osteichthyes"
+"404",786,"Species","Chaetodontidae ","Chaetodon","vagabundus",NA,NA,"Chaetodon vagabundus",NA,"Chaetodon vagabundus",5831,5582,"Chaetodon",NA,"Chaetodontidae","Acanthuriformes","Teleostei","Osteichthyes"
