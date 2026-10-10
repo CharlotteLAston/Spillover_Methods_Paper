@@ -37,8 +37,8 @@ setwd(sg.dir)
 bands <- read_xlsx("sampling_bands.xlsx")
 distance.results <- read_xlsx("cleaned_methods_distance.xlsx") 
 regression.results <- read_xlsx("cleaned_methods_regression.xlsx")
-study_dat <- read_xlsx("cleaned_methods_study_dat.xlsx") %>%   # This has metadata attached 
-  filter(!result.group %in% "genetics") %>% 
+study_dat1 <- read_xlsx("cleaned_methods_study_dat.xlsx") %>%   # This has metadata attached 
+  filter(!result.group %in% c("genetics", "egg production")) #%>% 
   filter(!paper.id %in% c(244))
 
 
@@ -49,7 +49,7 @@ regression.results <- regression.results %>%
 
 full.data <- read.csv("/Users/00106632/Documents/UWA-Minderoo/Code/Spillover_Systematic-Review/Staging/clean_full_data.csv")
 paper.focus <- full.data %>% 
-  filter(paper.id %in% study_dat$paper.id) %>% 
+  #filter(paper.id %in% study_dat$paper.id) %>% 
   dplyr::select(paper.id, bioregion, reserve.name, mpa.name, zone.type, sample.unit, unique.unit, functional.group, significant, targeted) %>% 
   mutate(targeted = ifelse(is.na(targeted) & grepl("commercially important|Exploited|", functional.group), "yes", targeted),
          targeted = ifelse(is.na(targeted) & grepl("long-lines|Target species", sample.unit), "yes", targeted),
@@ -59,8 +59,14 @@ paper.focus <- full.data %>%
          paper.focus = ifelse(paper.focus %in% "no", "Biodiversity", paper.focus)) %>% 
   group_by(paper.id) %>% 
   mutate(any.fisheries = if_else(any(paper.focus %in% "Fisheries"), "Yes", "No")) %>% 
-  filter(paper.focus %in% "Fisheries") %>% 
+  ungroup() %>% 
+  filter(any.fisheries %in% "No") %>% 
   distinct(paper.id, .keep_all=T) 
+  
+
+# Four biodiversity only papers to be removed
+
+length(unique(full.data$paper.id))
 length(unique(paper.focus$paper.id))
 
 study_dat <- study_dat %>% 
@@ -68,10 +74,11 @@ study_dat <- study_dat %>%
   left_join(published)
 length(unique(study_dat$paper.id))
 
+temp <- anti_join(study_dat, study_dat1, by="paper.id")
 
 #### Single value stats ----
 length(unique(study_dat$paper.id))
-# 70 papers 
+# 73 papers 
 
 length(unique(study_dat$mpa.name))
 # 74 MPAs
@@ -193,8 +200,13 @@ sampling.design.dat <- study_dat %>%
   pivot_longer(cols=c(site.placement, stratification, sample.selection), names_to = "sampling.design", values_to="description") %>% 
   filter(!is.na(description)) 
 
+study_dat %>% 
+  filter(sample.selection %in% "not mentioned"|site.placement %in% "not mentioned") %>% 
+  {length(unique(.$paper.id))}
+
+
 sampling.design.dat %>% 
-  #filter(description %in% "systematic") %>% 
+  #filter(sampling.design %in% "sample.selection") %>% 
   distinct(paper.id, .keep_all=T) %>% 
   {table(.$description)}
 
@@ -339,7 +351,7 @@ habitat <- study_dat %>%
   dplyr::select(paper.id, mpa.name,year.published, data.source, habitat.adjusted, how.adjusted, habitat.restriction) %>% 
   filter(data.source %in% c("Primary", "Primary, secondary")) %>% 
   mutate(how.adjusted = ifelse(habitat.adjusted %in% "No", "None", how.adjusted)) %>% 
-  mutate(how.adjusted = ifelse(habitat.restriction %in% "yes", "Sampling", how.adjusted)) %>% 
+  mutate(how.adjusted = ifelse(habitat.restriction %in% "yes" & habitat.adjusted %in% "No", "Sampling", how.adjusted)) %>% 
   mutate(across(where(is.character), ~na_if(., "NA"))) %>% 
   distinct(paper.id, year.published, .keep_all=T) %>% 
   filter(!is.na(habitat.adjusted)) 
